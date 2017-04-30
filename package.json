@@ -1,0 +1,19 @@
+{
+  "name": "qmgj",
+  "version": "1.0.0",
+  "description": "This is an Angular Project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "qmgj"
+  },
+  "keywords": [
+    "Angular",
+    "Project"
+  ],
+  "author": "Cpy",
+  "license": "ISC"
+}
